@@ -26,6 +26,8 @@ nav {
   text-align: center;
   
 }
+
+/* Adding color to links */
 a {
   color:#d62828 ;
 }
@@ -71,6 +73,8 @@ hr {
 footer {
   text-align: center;
 }
+
+/* Image border */
 .image-circle {
   border-radius: 50%;
   border-color: #003049;
